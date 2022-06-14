@@ -2,7 +2,7 @@
 title: "Smart-Energy"
 description: "new"
 date: "2022-06-13T23:41:52-05:00"
-thumbnail: "img/placeholder.png"
+thumbnail: "images/placeholder.png"
 categories:
   - "new"
 tags:
