@@ -4,7 +4,6 @@ categories = []
 comments = false
 date = 2022-06-14T05:00:00Z
 description = "sdtrerbh"
-draft = true
 lead = "fghfghdfghf yhfgdy "
 mathjax = false
 pager = false
