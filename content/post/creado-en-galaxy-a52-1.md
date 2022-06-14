@@ -10,7 +10,7 @@ pager = false
 sidebar = ""
 tags = ["new"]
 thumbnail = "/images/16552169330008599334949580286007.jpg"
-title = "Creado en Galaxy a52"
+title = "Creado en Galaxy a52-1"
 toc = false
 widgets = []
 
@@ -18,3 +18,7 @@ widgets = []
 # Every
 
 ## Hey
+
+rtrtrtr
+
+xxxxx
