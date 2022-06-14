@@ -30,3 +30,5 @@ widgets = []
 **este es bold**
 
 _este italic_
+
+![](/img/placeholder.png)
