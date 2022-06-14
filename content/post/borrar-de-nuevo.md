@@ -1,6 +1,6 @@
 +++
 authorbox = false
-categories = ["products"]
+categories = ["servicios", "products"]
 comments = false
 date = 2022-06-14T05:00:00Z
 description = "sdtrerbh"
@@ -8,7 +8,7 @@ lead = "fghfghdfghf yhfgdy "
 mathjax = false
 pager = false
 sidebar = ""
-tags = ["new"]
+tags = ["products", "new"]
 thumbnail = "/img/placeholder.png"
 title = "borrar de nuevo"
 toc = false
