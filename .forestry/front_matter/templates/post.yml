@@ -54,4 +54,5 @@ fields:
   name: widgets
   label: widgets
 pages:
+- content/post/hecho-en-forestry-no-2.md
 - content/post/hecho-en-forestry.md
