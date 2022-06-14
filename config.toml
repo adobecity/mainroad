@@ -2,7 +2,7 @@ baseurl = "/"
 title = "Mainroad"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
-theme = "mainroad"
+# theme = "mainroad"
 disqusShortname = "" # Enable comments by entering your Disqus shortname
 googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
@@ -34,3 +34,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 [Params.widgets]
   recent_num = 5 # Set the number of articles in the "Recent articles" widget
   tags_counter = false # Enable counter for each tag in "Tags" widget (disabled by default)
+
+[module]
+  [[module.imports]]
+    path = "github.com/adobecity/mainroad-theme" 
