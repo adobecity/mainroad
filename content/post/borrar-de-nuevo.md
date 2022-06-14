@@ -19,11 +19,7 @@ widgets = []
 
 ## fgdfgfg
 
-![](/img/screenshot-2022-06-06-143552.png)
-
 ### gffdgfg
-
-![](/img/royalty-free-rf-welder-clipart-illustration-by-ron-leishman-stock-sample-1060018-editado.gif)
 
 #### dfsghgfg
 
