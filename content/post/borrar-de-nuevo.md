@@ -27,6 +27,6 @@ widgets = []
 
 ###### fgdfgfgfg
 
- **este es bold**
+**este es bold**
 
 _este italic_
