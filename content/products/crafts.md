@@ -1,7 +1,7 @@
 ---
-title: "{{ replace .TranslationBaseName '-' ' ' | title }}"
+title: "Crafts"
 description: "new"
-date: "{{ .Date }}"
+date: "2022-06-13T23:44:39-05:00"
 thumbnail: "img/placeholder.png"
 categories:
   - "new"

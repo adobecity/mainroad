@@ -1,7 +1,7 @@
 ---
-title: "{{ replace .TranslationBaseName '-' ' ' | title }}"
+title: "Drilling-Rig"
 description: "new"
-date: "{{ .Date }}"
+date: "2022-06-13T23:48:05-05:00"
 thumbnail: "img/placeholder.png"
 categories:
   - "new"
