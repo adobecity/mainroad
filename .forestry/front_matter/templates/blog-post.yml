@@ -45,3 +45,5 @@ fields:
 - type: list
   name: widgets
   label: widgets
+pages:
+- content/post/borrar-de-nuevo.md
